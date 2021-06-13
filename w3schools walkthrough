@@ -1,1 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<body>
 
+<h2>Day 1 Code 1</h2>
+<p>Links could be written with blank href=""</p>
+<a href="">https://www.w3schools.com/html/html_basic.asp</a>
+<p>OR with link nested within the href="#" and hyperlink to another line as shown below:</p>
+<a href="https://www.w3schools.com/html/html_basic.asp">This is the link</a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCoQdWVWE10Vb2MrIafIFaNqBO7iX6afet3hu6PezwtAQuH_ceVS9jSv7_5a1tWGu80o&usqp=CAU" alt="starlord_trial" width="142" height="150">
+
+
+
+</body>
+</html>
