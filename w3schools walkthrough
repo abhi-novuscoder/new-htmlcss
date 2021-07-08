@@ -1,10 +1,29 @@
-<!--check last line-->
-<!--CSS chapters-->
-<!DOCTYPE HTML>
-<html style="font-family:verdana;color:Black;background-color:#448D76">
-<body>
+<!-- 
 
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+-->
+
+<!DOCTYPE HTML>
+<html style="font-family:calibri;color:#dbceb0;background-color:#484f4f">
+<body>
+<img src="https://media.tenor.com/images/819fc59ff767713df183e0394f84bad4/tenor.gif" alt="me, coding" title="me, while coding" width="" height="">
 <h2>Day 1 Code 1</h2>
+<b>Cascading Style Sheets</b> can be added to HTML documents in 3 ways:
+
+<P><B>Inline</B> - by using the <B>style attribute</B> inside HTML elements<br>
+Used to style a inidivual unique html element in the line.</P>
+
+<P><B>Internal</B> - by using a <B>style element</B> in the head section of the html page<br>
+Used to define style for a single page. It sets the template for all the elements whose style is defined in the head section<BR>
+This style will apply to the elements whenever used in the page's body section.</P>
+
+<P><B>External</B> - by using a <B>link</B> element to link to an external CSS file</P>
+
+<img src="https://media.tenor.com/images/0d95547287f6b44f5668349a9e953faf/tenor.gif" alt="me, on successful debug" title="me, on successful debug" width="" height="">
 
 </body>
 </html>
