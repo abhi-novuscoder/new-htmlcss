@@ -21,7 +21,9 @@ Used to style a inidivual unique html element in the line.</P>
 Used to define style for a single page. It sets the template for all the elements whose style is defined in the head section<BR>
 This style will apply to the elements whenever used in the page's body section.</P>
 
-<P><B>External</B> - by using a <B>link</B> element to link to an external CSS file</P>
+<P><B>External</B> - by using a <B>link</B> element to link to an external CSS file<BR>
+    The external style sheet can be written in any text editor & must be saved with a <B>.css</B> extension. The file must not contain any HTML code.
+</P>
 
 <img src="https://media.tenor.com/images/0d95547287f6b44f5668349a9e953faf/tenor.gif" alt="me, on successful debug" title="me, on successful debug" width="" height="">
 
