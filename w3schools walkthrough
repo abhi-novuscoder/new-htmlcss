@@ -1,17 +1,8 @@
-<!-- 
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
--->
-
+<!--CSS tutorials day1 code2-->
 <!DOCTYPE HTML>
 <html style="font-family:calibri;color:#dbceb0;background-color:#484f4f">
 <body>
-<img src="https://media.tenor.com/images/819fc59ff767713df183e0394f84bad4/tenor.gif" alt="me, coding" title="me, while coding" width="" height="">
-<h2>Day 1 Code 1</h2>
+<h2>Day 1 Code 2</h2>
 <b>Cascading Style Sheets</b> can be added to HTML documents in 3 ways:
 
 <P><B>Inline</B> - by using the <B>style attribute</B> inside HTML elements<br>
